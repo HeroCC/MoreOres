@@ -1,0 +1,20 @@
+[
+{
+  "modid": "MoreOres",
+  "name": "More Ores!",
+  "description": "Adds many more ores, and blocks, and Much, Much More!",
+  "version": "@VERSION@",
+  "url": "TBD",
+  "updateUrl": "TBD",
+  "authorList": [
+    "HeroCC"
+    ],
+  "credits": "HeroCC, and GitHub contributors",
+  "logoFile": "/mods/moreores/textures/logo/logo.png",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
